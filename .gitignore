@@ -1,2 +1,3 @@
 .ipynb_checkpoints/
 data/raw_data/large_files
+.DS_Store
